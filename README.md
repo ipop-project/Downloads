@@ -1,22 +1,22 @@
-Release version 16.01.01 is a minor release of IPOP-VPN for Ubuntu, CentOS, Windows and OpenWRT.
+Release version 16.01.1 is a minor release of IPOP-VPN for Ubuntu, CentOS, Windows and OpenWRT.
 It includes enhancements to controller logic to improve the performance of on-demand links.
 
 Platform - MD5 Checksum - Filename
 
 Windows 7 and Server 2008 R2 (32 bit)
-[0bb03af5c4743a5b125d9729b7aec736 ipop-v16.01.01_win7.zip]
+[0bb03af5c4743a5b125d9729b7aec736 ipop-v16.01.1_win7.zip]
 
 CentOS 7 (64 bit)
-[383b1641dcb8d020eb929dd437a351e8 ipop-v16.01.01_centos7.tar.gz]
+[383b1641dcb8d020eb929dd437a351e8 ipop-v16.01.1_centos7.tar.gz]
 
 Ubuntu 14 (64 bit)
-[01097c487536e87f06fa27f15a67b171 ipop-v16.01.01_ubuntu.tar.gz]
+[01097c487536e87f06fa27f15a67b171 ipop-v16.01.1_ubuntu.tar.gz]
 
 OpenWRT GateWork Laguna CNS3XXX boards
-[756ae34dc294e7567043e7aba9169cad ipop-v16.01.01_laguna.ipk]
+[756ae34dc294e7567043e7aba9169cad ipop-v16.01.1_laguna.ipk]
 
 AR71XX DLink DIR505 OpenWRT routers
-[188da14773a24724b6cb03e413d55378 ipop-v16.01.01_ar71xxDIR505.ipk]
+[188da14773a24724b6cb03e413d55378 ipop-v16.01.1_ar71xxDIR505.ipk]
 
 ----------------------------------------------------------------------------------------------------------------------------
 
