@@ -18,7 +18,7 @@ OpenWRT GateWork Laguna CNS3XXX boards
 AR71XX DLink DIR505 OpenWRT routers
 [188da14773a24724b6cb03e413d55378 ipop-v16.01.01_ar71xxDIR505.ipk]
 
-############################################################################################################################
+----------------------------------------------------------------------------------------------------------------------------
 
 Release version 16.01.0 is a major release of IPOP-VPN for Ubuntu, CentOS, Windows and OpenWRT.
 Changes included in this release:
