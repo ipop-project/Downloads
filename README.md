@@ -1,3 +1,22 @@
+Version 16.08.0 updates IPOP-VPN for Ubuntu, Windows and OpenWRT platforms.
+The XMPP handling functionality moved from tincan to controller.
+
+Platform - MD5 Checksum - Filename
+
+Windows 7 and Server 2008 R2 (32 bit)
+[5a9673b88fbad79d82330f8fb29d44cd ipop-v16.08.0_win7.zip]
+
+Ubuntu 14 (64 bit)
+[269eaf50d9a617a3a8e962c0cf643a1a ipop-v16.08.0_ubuntu.tar.gz]
+
+OpenWRT GateWork Laguna CNS3XXX boards
+[5528713a11482e9ea697afd8753c9c3f ipop-v16.08.0_laguna.ipk]
+
+AR71XX DLink DIR505 OpenWRT routers
+[cca749b846df1945793e4bf17a1e7af2 ipop-v16.08.0_ar71xxDIR505.ipk]
+
+------------------------------------------------------------------------------------------------------
+
 Release version 16.01.1 is a minor release of IPOP-VPN for Ubuntu, CentOS, Windows and OpenWRT.
 It includes enhancements to controller logic to improve the performance of on-demand links.
 
