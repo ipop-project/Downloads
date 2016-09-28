@@ -1,3 +1,12 @@
+Version 16.08.1 updates IPOP-VPN for Windows. It fixes startup errors in the scripts of the previous release and introduces and easy setup script for Windows 10.
+
+Platform - MD5 Checksum - Filename
+
+Windows (32 bit)
+[cef6040efd35431039f763a411fcf89a ipop-v16.08.1_win.zip]
+
+------------------------------------------------------------------------------------------------------
+
 Version 16.08.0 updates IPOP-VPN for Ubuntu, Windows and OpenWRT platforms.
 The XMPP handling functionality moved from tincan to controller.
 
