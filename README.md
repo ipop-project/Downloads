@@ -1,3 +1,18 @@
+Release version 17.08 is a major release of IPOP-VPN for Ubuntu, and Raspberry Pi.
+
+Changes included in this release:
+Redesigned tincan data-plave
+Refactored Group VPN
+
+Platform - MD5 Checksum - Filename
+Raspbery Pi (32-bit ARM7)
+[4f3db1cf46e4d9b03b5be025526e7bbb ipop-rel17.08-rpi.tar.gz]
+
+Ubuntu 14 (64-bit x86)
+[18ae4fa09ecc3ef9a37cb5777620d33c ipop-rel17.08-ubuntu.tar.gz]
+
+------------------------------------------------------------------------------------------------------
+
 Version 16.08.1 updates IPOP-VPN for Windows. It fixes startup errors in the scripts of the previous release and introduces and easy setup script for Windows 10.
 
 Platform - MD5 Checksum - Filename
