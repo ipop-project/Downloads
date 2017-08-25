@@ -1,5 +1,5 @@
 # IPOP-VPN Release 17.08  
-## Ubuntu 16 and Raspberry Pi 2B  
+## Ubuntu 16 and Raspberry Pi 3B  
 
 Changes in this release:  
 - Redesigned Tincan data-plane  
@@ -16,11 +16,11 @@ Changes in this release:
 
 
 ## Platform - MD5 Checksum - Filename
-- Raspbery Pi 2B (ARM7 32-bit)  
-[]
+- Raspbery Pi 3B (ARM7 32-bit)  
+[eefdb3464d57453efbd3f997b18e5344 ipop-vpn_rel17.08.rpi.tar.gz]
 
 - Ubuntu 16 (x86 64-bit)  
-[]
+[0154df52a0d030d33374e7c1314a0098 ipop-vpn_rel17.08.ubuntu.tar.gz]
 
 ------------------------------------------------------------------------------------------------------
 
