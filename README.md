@@ -1,15 +1,25 @@
-Release version 17.08 is a major release of IPOP-VPN for Ubuntu, and Raspberry Pi.
+# IPOP-VPN Release 17.08 for Ubuntu 16 and Raspberry Pi 2B.
 
-Changes included in this release:
-Redesigned tincan data-plave
-Refactored Group VPN
+Changes in this release:  
+- Redesigned Tincan data-plane  
+- Updated WebRTC library based on branch head 57  
+- New simplified build process  
+- Layer 2 switching  
+- Improved ARP handling  
+- Basic all-to-all overlay topology  
+- Framework improvements for CBTs  
+- Bi-directional NAT traversal attempts  
+- Network Overlay Visualizer Webservice  
+- LXC based scale test 
+- Simplified configuration file specification
 
-Platform - MD5 Checksum - Filename
-Raspbery Pi (32-bit ARM7)
-[4f3db1cf46e4d9b03b5be025526e7bbb ipop-rel17.08-rpi.tar.gz]
 
-Ubuntu 14 (64-bit x86)
-[18ae4fa09ecc3ef9a37cb5777620d33c ipop-rel17.08-ubuntu.tar.gz]
+## Platform - MD5 Checksum - Filename
+- Raspbery Pi (ARM7 32-bit)  
+[]
+
+- Ubuntu 14 (x86 64-bit)  
+[]
 
 ------------------------------------------------------------------------------------------------------
 
